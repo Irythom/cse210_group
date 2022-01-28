@@ -43,5 +43,5 @@ root                    (project root folder)
 - Miguel López (lop18028@byui.edu) : Coded main.py along with the init, start, and inputs sections of director class
 - Ryan Weinheimer (ryanweinheimer@gmail.com) : Coded mix method within Card class, coded the updates section of the director class, and finalized contributions within README file
 - Diana Guerra (diana.1609@hotmail.com) : in charge of updating README file content
-- Eduardo Mosquera Galarza : Coded output section of the director class
+- Eduardo Mosquera Galarza (mos21008@byui.edu): Coded output section of the director class
 - Chioneso Chatayika : Coded keep playing section of the director class
